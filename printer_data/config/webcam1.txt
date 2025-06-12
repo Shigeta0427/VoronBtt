@@ -1,1 +1,1 @@
-camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-046d_C270_HD_WEBCAM_200901010001-video-index0"
+camera_usb_options="-d /dev/video1 -r 1920x1080 -f 30"
